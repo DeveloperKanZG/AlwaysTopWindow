@@ -1,5 +1,5 @@
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)  
-# AlwaytTopWindow
+# AlwaysTopWindow
 Forces you to go to the top window.
   
 ## How To Use
